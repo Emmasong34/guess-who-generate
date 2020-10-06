@@ -1,3 +1,4 @@
-#newDiv{
-    display: flex;
+li{
+    list-style: none;
+    display: inline;
 }
